@@ -1,2 +1,0 @@
-# stepan.github.io
-site
